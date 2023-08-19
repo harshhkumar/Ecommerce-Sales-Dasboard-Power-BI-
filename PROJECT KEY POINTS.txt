@@ -1,0 +1,13 @@
+PROJECT KEY POINTS
+
+1. data collection
+2. data cleaning and wrangling
+3. data modeling
+4. data visualizatin
+5. dashboard design
+6. sharing insights
+
+OBJECTIVE - create a dashboard to track and analyze online sales across india of flipkart.
+
+
+

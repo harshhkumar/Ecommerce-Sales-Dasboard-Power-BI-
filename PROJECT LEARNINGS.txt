@@ -1,0 +1,5 @@
+PROJECT LEARNINGS 
+
+1. Created intractive dashboard to track and analyze online sales data.
+2. Used complex parametes to drill down in worksheey an customization using filters and slicers.
+3. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
